@@ -9,5 +9,5 @@
 7)  FUNCIONES NUEVAS SUM() MAX() MIN() COUNT()  (hicimos actividad 09.py)
 8)  9
 9)  abrir csv sumar las columnas math score. encontar el minimo y el maximo en la columna math score. contar los elementos en la colunma math score ( actividada 10 y 11.py)
-10)  abruel el csv.mostrar las columnas gender y matsh core mostrar las 8 filas ,mostrar la 4 ultimas filas mostrar los tipos de datos de cada columna.mostrar si hay un espacio si usar.contar cantidad de cda colmna
+10)  abruel el csv.mostrar las columnas gender y matsh core mostrar las 8 filas ,mostrar la 4 ultimas filas mostrar los tipos de datos de cada columna.mostrar si hay un espacio si usar.contar cantidad de cda colmna (12py)
 
