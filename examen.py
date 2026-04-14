@@ -33,3 +33,12 @@ print(df['reading score'].sum())
 print(df.shape)
 
 4)mostrar las dos primeras columnas. mostrar los tipos de datos. mostrar las ultimas 10 filas.
+
+import pandas as pd
+df = pd.read_csv('StudentsPerformance.csv')
+
+print(df[['gender','race/ethnicity']])
+
+print(df[['gender','race/ethnicity']].dtypes)
+
+print(df.tail(10))
